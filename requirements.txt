@@ -1,4 +1,5 @@
 aiohttp
+https://github.com/Anshusharma75/jhamak/archive/refs/heads/master.zip
 beautifulsoup4
 bs4
 cfscrape
